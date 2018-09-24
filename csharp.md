@@ -5,7 +5,7 @@ C# is a language that is very similar to that of Java syntactically. Though ther
 The main IDE used for C# is Visual Studio. Its developed primarily for the Windows OS (its developed by Microsoft) but supports Mac as well. Simply download Visual Studio to allow for running and editing C# scripts. If you installed Unity, Visual Studio is generally included in the install. 
 
 ## Basic Syntax
-C# functions very similarly to Java. If you have neve programmed in Java well then it'll be new, but thats ok! First lets look at the different variables we have in C#:
+C# functions very similarly to Java. If you have never programmed in Java well then it'll be new, but thats ok! First lets look at the different variables we have in C#:
 ```c#
 string text = "Nugget";
 int number = 1;
