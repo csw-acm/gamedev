@@ -1,4 +1,4 @@
-===Installation===
+# Installation
 
 - Download this entire respository (hit the big green button to download everything as a zip)
 
