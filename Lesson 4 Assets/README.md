@@ -1,6 +1,6 @@
 # Installation
 
-- Download this entire respository (hit the big green button to download everything as a zip)
+- Download this entire respository (hit the big green button on the main repository to download everything as a zip)
 
 - Drag it to your desktop and open unity
 
